@@ -5,5 +5,4 @@ num1 = int(input('Enter first number:'))
 num2 = int(input('Enter second number:'))
 result = addition(num1,num2)
 print("The sum is:", result)
-           # End of Function_addition.py
-# Function_addition.py
+           
